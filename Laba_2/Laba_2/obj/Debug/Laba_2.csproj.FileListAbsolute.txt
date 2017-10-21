@@ -1,0 +1,16 @@
+D:\3 курс\БД\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Database1.mdf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Database1_log.ldf
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Faker.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\FakerTests.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\Faker.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\bin\Debug\FakerTests.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
